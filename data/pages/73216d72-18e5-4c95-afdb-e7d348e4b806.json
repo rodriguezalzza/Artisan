@@ -1,0 +1,62 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Revitalizing Iskonawa Vocabulary",
+          "bold": true,
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n"
+        },
+        {
+          "text": "A Cultural Approach to Language",
+          "textSize": "heading-three",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This exhibition presents a "
+        },
+        {
+          "text": "Cultural Guide",
+          "italic": true
+        },
+        {
+          "text": " to the Iskonawa Language Collection housed in the Archive of Indigenous Languages of Latin America. It is designed to facilitate access, navigation, and use by the Iskonawa people and others interested in a culturally grounded approach to language. The exhibition is the result of the project "
+        },
+        {
+          "text": "\"Revitalizing Iskonawa Vocabulary: Bridging Language Archives to a Digital Exhibition,\"",
+          "bold": true
+        },
+        {
+          "text": " supported by the 2024 LLILAS Benson Digital Scholarship–AVAnnotate Project Fellowship."
+        }
+      ]
+    }
+  ],
+  "title": "A Cultural Guide to the Iskonawa Language ",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "a-cultural-guide-to-the-iskonawa-language",
+  "created_at": "2025-07-24T17:32:23.244Z",
+  "created_by": "rodriguezalzza",
+  "updated_at": "2025-07-24T17:32:23.244Z",
+  "updated_by": "rodriguezalzza"
+}
