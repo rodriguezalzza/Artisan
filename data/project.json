@@ -1,1 +1,55 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"rodriguezalzza","avatar_url":"https://avatars.githubusercontent.com/u/147187591?v=4","admin":true}],"project":{"github_org":"rodriguezalzza","is_private":false,"title":"Iskonawa","description":"This project aims to develop an exhibition featuring culturally significant Iskonawa vocabulary drawn from language recordings in the Iskonawa Language Collection at the Archive of the Indigenous Languages of Latin America (AILLA). ","language":"en","slug":"Artisan","creator":"rodriguezalzza","authors":"Noely Campos Barbarán","media_player":"avannotate","auto_populate_home_page":false,"additional_users":[],"tags":{"tagGroups":[],"tags":[]},"created_at":"2025-06-12T01:41:11.232Z","updated_at":"2025-07-24T17:32:51.555Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"b41a1674-ac58-4cef-9379-65c29b933251":{"content":[],"created_at":"2025-06-12T01:41:11.260Z","created_by":"rodriguezalzza","title":"Iskonawa vocabulary","updated_at":"2025-06-12T01:41:11.260Z","updated_by":"rodriguezalzza","autogenerate":{"enabled":false,"type":"home"}}},"pageOrder":["b41a1674-ac58-4cef-9379-65c29b933251"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "rodriguezalzza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147187591?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "rodriguezalzza",
+    "is_private": false,
+    "title": "Iskonawa Language",
+    "description": "This project aims to develop an exhibition featuring culturally significant Iskonawa vocabulary drawn from language recordings in the Iskonawa Language Collection at the Archive of the Indigenous Languages of Latin America (AILLA). ",
+    "language": "en",
+    "slug": "Artisan",
+    "creator": "rodriguezalzza",
+    "authors": "Noely Campos Barbarán",
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-06-12T01:41:11.232Z",
+    "updated_at": "2025-07-24T17:36:01.994Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "b41a1674-ac58-4cef-9379-65c29b933251": {
+      "content": [],
+      "created_at": "2025-06-12T01:41:11.260Z",
+      "created_by": "rodriguezalzza",
+      "title": "Iskonawa vocabulary",
+      "updated_at": "2025-06-12T01:41:11.260Z",
+      "updated_by": "rodriguezalzza",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "b41a1674-ac58-4cef-9379-65c29b933251"
+  ]
+}
