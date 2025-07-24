@@ -1,5 +1,758 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 17,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nokon haneriki Neyra Pérez Rodríguez Iskonawa hane riki Bomini"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "731bac61-d14f-4ad0-b58d-98312cd62415"
+    },
+    {
+      "start_time": 22,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ea pertenenke Asociación de Artesanas Iskonawa Pari Awin"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ba9d2b5f-875e-4019-9988-d57edfa3aa08"
+    },
+    {
+      "start_time": 27,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Noara comformanke ha en haweti ainbo nato tee akaibo "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "002cd2b4-f253-4a46-a773-b56bdd4c27d7"
+    },
+    {
+      "start_time": 33,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hatian ramara en yoikasai hawekeskaxonki non teexkobo nato neskara trabajobo non akai ixon"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "28e6c3d8-061c-4ee8-ba27-0f5d3e7621d2"
+    },
+    {
+      "start_time": 39,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rekenpari non nato bichi hiwibo non bikai kachio"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e765e8d3-c47e-47a4-b5c2-ec8ffa5c59c6"
+    },
+    {
+      "start_time": 46,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ha bixonra non kobian"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0a1c392c-f2c1-4c64-a78b-eeb908d2bed3"
+    },
+    {
+      "start_time": 49,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kobianxonra non neskara hoxo chopa non bia"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9f5b5d76-6421-42cf-aebc-fe11e91d617d"
+    },
+    {
+      "start_time": 55,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Non pokoi nonra pokoi bandeja "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "75e12019-b1e2-4f02-8f03-80770663e3b4"
+    },
+    {
+      "start_time": 60,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nachixon haskaxon non hain non pokoaro neskara colorshaman pikotai"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4a108e77-5de5-42c2-94b8-cf6c14936656"
+    },
+    {
+      "start_time": 65,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neskara oinkanwe"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "82d269fb-70b3-4d62-9236-1dfcf6f7f06b"
+    },
+    {
+      "start_time": 67,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hatian ha neskara iketianra non moa nato mano akai"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2d46ff5f-49c4-47a9-9587-562bcd1b5e61"
+    },
+    {
+      "start_time": 75,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nato riki mano"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "90af7d62-13f1-40b9-add9-b57925293c9f"
+    },
+    {
+      "start_time": 77,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mano nato han color meniai"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a2c2adf1-688f-40d1-ba2d-1009fdcfdbfa"
+    },
+    {
+      "start_time": 82,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nato manoronkiki hiria iki vidaya iki"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "06f8defc-2a96-4998-b50a-ffb6dc74e579"
+    },
+    {
+      "start_time": 86,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Non onpax nachiamora nato manoxoko mawatai"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "783954a6-0318-4039-a9ef-a898c89a4f84"
+    },
+    {
+      "start_time": 89,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ha manora akai non neska akin neskara kenebo"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f6aebbc7-2dd7-4b29-8750-e8d89440a355"
+    },
+    {
+      "start_time": 97,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nato keneronki iki roebiri akin en aka iki nato"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1be9065f-e6a1-4635-8196-67263f609fed"
+    },
+    {
+      "start_time": 102,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hatian haskara iketian non noabiribi hain non kayboboribibi hain"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fa698c37-3bed-497f-a905-b901869bc3f5"
+    },
+    {
+      "start_time": 108,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hata ikatiatian non neska akin non henexamai non chopanko non aka iki heska akin"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "08bfb05e-9518-4387-af1a-88d9ee8c82ce"
+    },
+    {
+      "start_time": 113,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Haskaxonra moa non nato moa neskara"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "22a6c041-e4cb-450c-ab81-d4b233029669"
+    },
+    {
+      "start_time": 116,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Iketianra non nato onpaxan chokai"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "589363e2-f60f-4954-a0a6-6d4655710379"
+    },
+    {
+      "start_time": 122,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Onpaxa chokara "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "10ffa5ef-f792-4fbd-85dc-d1966d718622"
+    },
+    {
+      "start_time": 125,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Moa neskara wisoshama pikotai"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4d232c61-9c56-40da-812a-9d8780212fd6"
+    },
+    {
+      "start_time": 131,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neskara non akai wetsa coloribira "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b2d73509-a00d-4e7a-a464-0fbda296c17a"
+    },
+    {
+      "start_time": 134,
+      "end_time": 137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Non pikoai hiwi bichinribi ha bichi boriki nato"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "27e71577-3eab-4c16-828d-10887c9f3259"
+    },
+    {
+      "start_time": 137,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neskara bichi riki ha non westa wetsa keskabiribi pikoai"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "93b2d0f9-1ba1-42ec-83a5-9fdd7156068e"
+    },
+    {
+      "start_time": 142,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hariki neskara hisabiribi"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fe023bb7-c845-49cf-b269-3f1b5219d0ca"
+    },
+    {
+      "start_time": 145,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hatian ha pokoxonra non akai neskara neskara pikotai "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e8b5e488-98f5-46a3-ae07-1a53521c8bf1"
+    },
+    {
+      "start_time": 151,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neskara hisashaman pikoketianra"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f533b459-1ebf-48de-b71a-43f4c3bfe8bb"
+    },
+    {
+      "start_time": 155,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Non nato manonribi hara manoribiribi non akai "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a7e1e9ed-8428-4493-800f-034062d14e5a"
+    },
+    {
+      "start_time": 161,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Diseñanki non habirainko non akai non kenebo non akai"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "92d5c2f2-42d4-474c-88a7-7085ac34fc78"
+    },
+    {
+      "start_time": 167,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hatian non akara non choka pekaora neskarashaman pikotai"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6ab8a862-4732-42b4-98fa-83897ce7e06e"
+    },
+    {
+      "start_time": 171,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ramara en yoikasai hoxo ribira non akai neskara hoxora"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "08b29816-4643-4072-a58b-93a8b6a3ce25"
+    },
+    {
+      "start_time": 176,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nato bichniribi ha kobian aka bichin "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e43cbb7e-427c-46a0-b57d-a53339ff3a48"
+    },
+    {
+      "start_time": 180,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ha henenbiribira non akai wishakin neskara hoxo chopanko ha akara "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "92382d4e-75b0-4b94-807d-838995f43f47"
+    },
+    {
+      "start_time": 189,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neskara hisashaman pikotai"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6e7b0a32-9d57-4f0f-9dcb-504f50807b55"
+    },
+    {
+      "start_time": 192,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neskarashaman hatian neskarashaman "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b24a51bb-d290-4f93-8fcb-6e353ac0415d"
+    },
+    {
+      "start_time": 195,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Iketianra moa non nato manonribi non kikin akin beskiai hatibi neno"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a9931807-4d2b-4455-8055-6250ec2337fb"
+    },
+    {
+      "start_time": 202,
+      "end_time": 208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Neska atanan non kiki akin beskiai"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "62429d89-cae3-42e6-9bb6-4a9e631786f8"
+    },
+    {
+      "start_time": 208,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ha beskia "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "667aecc3-95e3-429b-afa9-e19c2a35692e"
+    },
+    {
+      "start_time": 211,
+      "end_time": 214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Haweti minuto pekaora moa non chokanbiai"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b2fc1527-5e1c-40ba-8af8-ce602fd3adc9"
+    },
+    {
+      "start_time": 214,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ha chokara moa neskarashaman pikotai moa neskara wisoshaman moa"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1ac25754-4c2f-4f5a-92d9-90f9e581a56d"
+    },
+    {
+      "start_time": 220,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Haska akinra akai non hatibi non texoboko akin"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "df1e19b9-0302-4c7d-9b07-4ecac0bffad3"
+    },
+    {
+      "start_time": 224,
+      "end_time": 229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Haskara texoboko axonra akai non marokin"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ced965ee-d75d-496d-afde-0edf87eddcf9"
+    },
+    {
+      "start_time": 229,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Non azucar bitixoko non jabon bitixokobora akai "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "26fa5ef5-4db2-46d1-a128-2ac79f3bc356"
+    },
+    {
+      "start_time": 234,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Non neskaraton non haweki akin non bakebo kirika bixontixokobo"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "419a212c-45c8-473d-a77c-e4abae1f2ae1"
+    },
+    {
+      "start_time": 239,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Iketian haskaraton teexonbora non akai non bakebo non kirika bixonki"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "10c17b11-9d4f-4077-ba30-1e8a102f5be7"
+    }
+  ],
   "event_id": "72b7169b-ce59-4e69-91d6-432a05c18b24",
   "set": "Iskonawa",
   "source_id": "d412677e-a9aa-4462-b3fe-a5fdf2fd639a"
