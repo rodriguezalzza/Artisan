@@ -1,5 +1,758 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 17,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mi nombre es Neyra Pérez Rodríguez y en Iskonawa me llamo Bomini"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "78c4612e-348b-42f8-b156-7fe8f4a40e64"
+    },
+    {
+      "start_time": 22,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pertenezco a la Asociación de Artesanas Iskonawa Pari Awin"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0f32375a-43be-4a9c-bc97-02643790ef60"
+    },
+    {
+      "start_time": 27,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La conformamos las mujeres que hacemos este trabajo"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "468a2c03-72d6-4071-86d5-5771046d2b39"
+    },
+    {
+      "start_time": 33,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora les quiero contar de nuestro trabajo"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e1d11379-d4ee-45bb-bcb7-0a46c87dcd1e"
+    },
+    {
+      "start_time": 39,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Primero, nosotras vamos a recoger la corteza de árbol lejos en el bosque"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "150e3209-5e11-4235-90c2-f94cee628fb8"
+    },
+    {
+      "start_time": 46,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando así recogemos, cocinamos la corteza"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "47b898a1-f05d-4a48-86cb-314eafa691f6"
+    },
+    {
+      "start_time": 49,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y después de cocinarla, cogemos esta tela blanca"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "24a0f548-ff1c-4ff1-9bef-a519996585d5"
+    },
+    {
+      "start_time": 55,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La lavamos con la corteza en la bandeja y la enjuagamos"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "201cdb12-a5af-490a-9844-4dadbd4a79b5"
+    },
+    {
+      "start_time": 60,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Después de enjuagar, ya queda de este color"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "67cf574a-752d-4a6e-bfb4-804f2b55ecb6"
+    },
+    {
+      "start_time": 65,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mira, así queda"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e350b812-30ac-40e5-91af-74d493111c03"
+    },
+    {
+      "start_time": 67,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando ya está, la pintamos con barro"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "abaac18d-8b6d-40f5-8d83-717af9b7f3bb"
+    },
+    {
+      "start_time": 75,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este es el barro"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "25781d6a-e581-4233-9ee7-693c2f935310"
+    },
+    {
+      "start_time": 77,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y este es el color que le da el barro"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d10861c6-5d8a-4b21-8431-5b6f2fc155f9"
+    },
+    {
+      "start_time": 82,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dicen que este barro tiene vida"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2409c7ad-f962-4bab-8301-b0925de2c92f"
+    },
+    {
+      "start_time": 86,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando no le echamos el agua, este barro se muere"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "35547378-4b72-480a-be9f-0614596e4a0b"
+    },
+    {
+      "start_time": 89,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con este barro hacemos estos diseños"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3404708d-0439-4520-af84-6c626304c10b"
+    },
+    {
+      "start_time": 97,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este diseño que he hecho es el del cerro El Cono"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fba61a72-37b2-41c8-9c9c-24487f78541a"
+    },
+    {
+      "start_time": 102,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Era ahí donde nosotros vivíamos, nuestros antepasados vivían"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "85154341-3de0-48a7-8b49-51dd13b89661"
+    },
+    {
+      "start_time": 108,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mis antepasados hacían así, por eso no debemos de dejar de practicar"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "285da0d8-d388-43f3-a2c0-669606aa0b3b"
+    },
+    {
+      "start_time": 113,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora nosotras hacemos telas"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d617dae8-8b18-4952-be4c-ae4987eb9cbd"
+    },
+    {
+      "start_time": 116,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando ya está así, nosotras después enjuagamos con agua"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "911b6f40-b6aa-4797-8283-c2d3fb6aa267"
+    },
+    {
+      "start_time": 122,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ya cuando lo enjuagamos"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "52710a2b-5537-46a6-bc7e-e789bb531478"
+    },
+    {
+      "start_time": 125,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Así queda de color negro"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f3856373-48c7-40e8-83dc-ec125534d851"
+    },
+    {
+      "start_time": 131,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y así hacemos para que salgan otros colores"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "571d7f10-d7e0-42bd-9408-661956061ea2"
+    },
+    {
+      "start_time": 134,
+      "end_time": 137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con la cáscara de un árbol, con esta cáscara"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b0b97775-33b5-4b81-bac7-8d6a004e30a0"
+    },
+    {
+      "start_time": 137,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De esta cáscara le hacemos salir otros colores"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fe5236b6-546c-454e-8c5e-32a95d11daa9"
+    },
+    {
+      "start_time": 142,
+      "end_time": 145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y así sale de otro color"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7b1fa366-7a19-4359-ac81-23ff87b4847a"
+    },
+    {
+      "start_time": 145,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando se enjuaga, ya sale este otro color"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ce44241f-f26b-44fd-b2a6-84aca9a9923d"
+    },
+    {
+      "start_time": 151,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Así hacemos para que salga este otro color"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e8cd4bf5-b9ec-43c9-a929-ebdd7b1f4fec"
+    },
+    {
+      "start_time": 155,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando se va quedando de este color, usamos ya el barro"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d5de659b-eb76-43fa-b9d8-e4a52649c59a"
+    },
+    {
+      "start_time": 161,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hacemos nuestros diseños y ya cuando están hechos los diseños"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "20a3f5be-d6f7-44aa-82ae-5e7da06a0787"
+    },
+    {
+      "start_time": 167,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lavamos la tela y así va quedando"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5011e98d-82fc-4f55-94de-eda61823fd56"
+    },
+    {
+      "start_time": 171,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora les quiero contar también lo que hacemos con la tela blanca"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4c539a99-aa28-4294-b17c-3204677b1626"
+    },
+    {
+      "start_time": 176,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta cáscara del palo la he cocinado"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5ae23311-676e-4a06-9142-8dea22a41fce"
+    },
+    {
+      "start_time": 180,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con su misma agua pintamos esta tela blanca"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e9cdb785-7e64-410a-8eab-6c5e602a767a"
+    },
+    {
+      "start_time": 189,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y así va quedando"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "093fe510-1f4e-42d7-a064-af2cae74edf8"
+    },
+    {
+      "start_time": 192,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De este color va quedando"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cf16d0f5-0464-4152-ba1b-02171fffc331"
+    },
+    {
+      "start_time": 195,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando ya está así, la extendemos bien y le echamos barro"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4d12e685-d62a-492d-949b-ac12ab1d3701"
+    },
+    {
+      "start_time": 202,
+      "end_time": 208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esparcimos bien el barro aquí bien esparcido"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3c0dd1ec-f3b5-477b-b418-7ab3be520662"
+    },
+    {
+      "start_time": 208,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando ya está bien esparcido"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b8439792-8771-40bb-a6a3-a6f707b5bbce"
+    },
+    {
+      "start_time": 211,
+      "end_time": 214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Después de un rato, lavamos la tela"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d7c01844-931c-4704-8b36-6805eec8df70"
+    },
+    {
+      "start_time": 214,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando ya la lavamos, así sale el color. Sale negro ya."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3e46c826-ed34-41af-ad2a-5258b834dc7a"
+    },
+    {
+      "start_time": 220,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando hacemos estas telas, hacemos de todo este trabajo"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "96133b89-14cd-4d64-ae33-c27d44b2c922"
+    },
+    {
+      "start_time": 224,
+      "end_time": 229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Haciendo este tipo de trabajo, vendemos nuestras telas"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7a5d5a53-8403-4f4a-81b3-95faf5222844"
+    },
+    {
+      "start_time": 229,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para comprar nuestra azúcar, nuestro jabón. Para eso hacemos este trabajo"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2e0fae8a-d857-4938-9509-790ff7884f04"
+    },
+    {
+      "start_time": 234,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para también comprar otras cosas, como comprar los útiles escolares a mis hijos"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "730435b8-c547-4860-ac8a-09f5e7dd36f7"
+    },
+    {
+      "start_time": 239,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y así haciendo este trabajo compro sus útiles de mis hijos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f64387a5-f049-4ec6-92c9-33525eb41903"
+    }
+  ],
   "event_id": "72b7169b-ce59-4e69-91d6-432a05c18b24",
   "set": "Spanish",
   "source_id": "d412677e-a9aa-4462-b3fe-a5fdf2fd639a"
