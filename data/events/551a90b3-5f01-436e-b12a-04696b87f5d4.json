@@ -16,15 +16,26 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Iskonawa pottery is an embodied cultural practice that has recently been revitalized by women. In a world where handmade pots have largely fallen out of use, the revival of Iskonawa pottery represents more than the recovery of a material object—it reclaims and re-signifies cultural practices that reflect the depth and richness of Iskonawa heritage. Through the careful process of shaping pots in a variety of traditional forms, this revitalization shows that Iskonawa culture continues to be vibrant and alive."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n"
         }
       ]
     }
   ],
   "citation": "",
-  "label": "Promoviendo la cerámica iskonawa",
+  "label": "Teresa Rodríguez demonstrates how she makes pottery",
   "created_at": "2025-07-21T16:33:42.966Z",
   "created_by": "rodriguezalzza",
-  "updated_at": "2025-07-21T16:33:42.966Z",
-  "updated_by": "rodriguezalzza"
+  "updated_at": "2025-07-26T18:20:43.415Z",
+  "updated_by": "rodriguezalzza",
+  "av_file_order": [
+    "5b2b0cc1-283f-4c87-827e-b2b3fbef2686"
+  ]
 }
