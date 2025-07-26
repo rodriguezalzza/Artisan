@@ -4,12 +4,20 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "\n"
         },
         {
           "text": "Revitalizing Iskonawa Vocabulary",
           "bold": true,
-          "textSize": "heading-three"
+          "textSize": "heading-two"
         }
       ]
     },
@@ -25,21 +33,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Iskonawa revitalization efforts have emerged from grassroots initiatives led by youth, building upon earlier work and approaching language\nrevitalization holistically. These efforts are closely tied to ethnic identity reclamation, land sovereignty, and cultural initiatives aimed at increasing\nvisibility in a context dominated by larger Indigenous groups. One of the key grassroots organizations, the "
+          "text": "Iskonawa revitalization efforts have emerged from grassroots initiatives led by youth, building upon earlier work and approaching language revitalization holistically. These efforts are closely tied to ethnic identity reclamation, land sovereignty, and cultural initiatives aimed at increasing visibility in a context dominated by larger Indigenous groups. One of the key grassroots organizations, the "
         },
         {
-          "text": "Organización para el Desarrollo y Bien Común\ndel Pueblo Iskonawa",
+          "text": "Organización para el Desarrollo y Bien Común del Pueblo Iskonawa",
           "italic": true
         },
         {
           "text": " (ODEBPI), was founded in 2021. Earlier, in 2019, group of women artisans established the "
         },
         {
-          "text": "Asociación de Artesanas Iskonawa\nPari Awin",
+          "text": "Asociación de Artesanas Iskonawa Pari Awin",
           "italic": true
         },
         {
-          "text": ". Across these initiatives, there is a growing recognition of the ancestral language as essential to strengthening Iskonawa identity,\nparticularly as a key marker of their cultural distinctiveness. "
+          "text": ". Across these initiatives, there is a growing recognition of the ancestral language as essential to strengthening Iskonawa identity, particularly as a key marker of their cultural distinctiveness. "
         }
       ]
     },
@@ -71,9 +79,17 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "bold": true,
-          "text": "A Cultural Approach to Language"
+          "text": "A Cultural Approach to Language",
+          "textSize": "heading-two"
         }
       ]
     },
@@ -118,6 +134,6 @@
   "slug": "a-cultural-guide-to-the-iskonawa-language",
   "created_at": "2025-07-24T17:32:23.244Z",
   "created_by": "rodriguezalzza",
-  "updated_at": "2025-07-26T18:01:10.085Z",
+  "updated_at": "2025-07-26T18:35:18.016Z",
   "updated_by": "rodriguezalzza"
 }
